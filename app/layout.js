@@ -1,6 +1,6 @@
-import MenuContextProvider from "@/context/MenuContext";
-import MainLayout from "./components/MainLayout";
+import MainLayout from "@/components/layout/MainLayout";
 import "./globals.css";
+import MenuContextProvider from "@/context/MenuContext";
 
 export const metadata = {
   title: "Nextjs Tailwind Sandbox",
